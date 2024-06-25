@@ -1,0 +1,15 @@
+:root {
+  --mainColor: #1c5550;
+  --color2: #dfd9d9;
+  --color3: #c3b97f;
+  --color4: #dfd9d9;
+  --color5: #dfd9d9;
+  --color6: #000000;
+
+  --mainText: Bold, 24px;
+  --text1: regular, 18px;
+  --text2: regular, 16px;
+  --text3: bold, 16px;
+  --text4: regular, 14px;
+  --text5: bold, 14px;
+}
